@@ -1,3 +1,3 @@
 <?php
-include_once('start.html');
+include('./start.html');
 ?>
